@@ -1,6 +1,6 @@
 # data-engineering-toolkit
 
-Project on Using Git Hub - README that describes the purpose of the project and includes sections for documentation, code examples, and a contribution guide.
+Project on Using Git Hub 
 
 This project aims to empower an individual to learn and implement basic skills and knowledge of using github for version control, continuous development and integration.
 
