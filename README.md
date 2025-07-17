@@ -2,7 +2,7 @@
 
 Project on Using Git Hub
 
-This create a repository on GitHub which is then clone to the local machine.
+Cleansing Branch
 
-Feature branches will also be created for different purposes and all the branches will be merged to main on GitHub.
+This features basic data cleansing function to eliminate duplicate values in a list.
 
