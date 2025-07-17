@@ -2,7 +2,7 @@
 
 Project on Using Git Hub
 
-This create a repository on GitHub which is then clone to the local machine.
+The transformation branch - The function transform the list by determine the highest and lowest number from a list.
 
-Feature branches will also be created for different purposes and all the branches will be merged to main on GitHub.
+
 
