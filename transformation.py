@@ -9,4 +9,6 @@ lucky_numbers = [37, 71, 47, 13, 17, 67]
 (highest, lowest) = high_and_low(lucky_numbers)
 print('The highest number is: {}'.format(highest))
 print('The lowest number is: {}'.format(lowest))
+print(f'The luck numbers are {highest} and {lowest}')
+
 
